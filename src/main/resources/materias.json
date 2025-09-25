@@ -1,0 +1,52 @@
+{
+  "materias": [
+    {
+      "materiaId": 1,
+      "nombre": "MateriaSara"
+    },
+    {
+      "materiaId": 2,
+      "nombre": "Física"
+    },
+    {
+      "materiaId": 3,
+      "nombre": "Química"
+    },
+    {
+      "materiaId": 4,
+      "nombre": "Biología"
+    },
+    {
+      "materiaId": 5,
+      "nombre": "Historia"
+    },
+    {
+      "materiaId": 6,
+      "nombre": "Geografía"
+    },
+    {
+      "materiaId": 7,
+      "nombre": "Literatura"
+    },
+    {
+      "materiaId": 8,
+      "nombre": "Programación"
+    },
+    {
+      "materiaId": 9,
+      "nombre": "Inglés"
+    },
+    {
+      "materiaId": 10,
+      "nombre": "Filosofía"
+    },
+    {
+      "materiaId": 11,
+      "nombre": "Economía"
+    },
+    {
+      "materiaId": 12,
+      "nombre": "Arte"
+    }
+  ]
+}
